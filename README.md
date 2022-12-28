@@ -8,7 +8,7 @@ HTML/CSS - Python - Java - JavaScript - C++ -Ruby - Frameworks - Mysql
 
 ### Objectives:
 📖Continue learning to master new and current technologies 
-💻 Do a business internship to gain work experience in this field
+💼Do a business internship to gain work experience in this field
 
 ### 📞Contact Networks
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuisJimenez35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luis_mora1202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@LuisMora101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/wkv8BDHhTE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/50687045887)  
