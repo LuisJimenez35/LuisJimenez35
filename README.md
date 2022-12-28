@@ -6,7 +6,7 @@
 ### 👨🏼‍💻Skills:
 HTML/CSS - Python - Java - JavaScript - C++ -Ruby - Frameworks - Mysql 
 
-### Objectives:
+### 🏁Objectives:
 📖Continue learning to master new and current technologies /
 💼Do a business internship to gain work experience in this field
 
