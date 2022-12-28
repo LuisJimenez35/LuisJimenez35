@@ -7,6 +7,7 @@
 
 📖Continue learning to master new and current technologies 
 
+### 📞Contact Networks
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuisJimenez35)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/luis_mora1202/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@LuisMora101)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/wkv8BDHhTE)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/50687045887)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
