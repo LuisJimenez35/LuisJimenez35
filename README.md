@@ -7,7 +7,7 @@
 HTML/CSS - Python - Java - JavaScript - C++ -Ruby - Frameworks - Mysql 
 
 ### Objectives:
-📖Continue learning to master new and current technologies 
+📖Continue learning to master new and current technologies /
 💼Do a business internship to gain work experience in this field
 
 ### 📞Contact Networks
