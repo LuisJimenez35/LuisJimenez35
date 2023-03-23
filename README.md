@@ -20,6 +20,7 @@ Soy Luis Mora Jimenez y soy un desarrollador de software apasionado por la tecno
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft SQL Server-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
