@@ -23,8 +23,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 🔋Personal Information the GitHub
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub metrics](https://metrics.lecoq.io/LuisJimenez35)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Mis proyectos
 
