@@ -8,7 +8,7 @@
 - 😄 Pronombres: él/ella
 - ⚡ Dato curioso: Me encanta el senderismo y la fotografía.
 
-### 🛠️ Languages and tools used:
+## 🛠️ Languages and tools used:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![.Net Framework](https://img.shields.io/badge/-.NetFramework-512BD4?style=flat-square&logo=.netframework)
@@ -27,11 +27,10 @@
 ![GitHub metrics](https://metrics.lecoq.io/LuisJimenez35)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
 
-## Mis proyectos
+## 📁My best projects
 
-Aquí hay algunos de mis proyectos más interesantes:
-
-- [Nombre del proyecto 1](https://github.com/LuisJimenez35/SystemRH): Descripción breve del proyecto 1.
-- [Nombre del proyecto 2](URL del proyecto 2): Descripción breve del proyecto 2.
+- [RH System](https://github.com/LuisJimenez35/SystemRH): Descripción breve del proyecto 1.
+- [Lybrary Page](https://github.com/LuisJimenez35/Lybrary): Descripción breve del proyecto 2.
+- [Vet APP](https://github.com/LuisJimenez35/System-VeterinariaAPP): Descripción breve del proyecto 3.
 
 ¡Gracias por visitar mi perfil! 😊
