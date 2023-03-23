@@ -22,7 +22,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver)
 
-![.Net Framework](https://img.shields.io/badge/-.Net Framework-512BD4?style=flat-square&logo=.netframework)
+![.Net Framework](https://img.shields.io/badge/-.NetFramework-512BD4?style=flat-square&logo=.netframework)
 
 
 ## 🔋Personal Information the GitHub
