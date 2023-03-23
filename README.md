@@ -15,6 +15,11 @@ Soy Luis Mora Jimenez y soy un desarrollador de software apasionado por la tecno
 - Lenguajes de programación: Java, Python, JavaScript
 - Herramientas y tecnologías: Git, GitHub, HTML, CSS
 
+## 🔋Personal Information the GitHub
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisJimenez35&show_icons=true&count_private=true)  
+![GitHub metrics](https://metrics.lecoq.io/LuisJimenez35)
+
 ## Mis proyectos
 
 Aquí hay algunos de mis proyectos más interesantes:
