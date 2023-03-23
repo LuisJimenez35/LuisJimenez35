@@ -23,9 +23,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver)
 
-
-
-
 ## 🔋Personal Information the GitHub
 ![GitHub metrics](https://metrics.lecoq.io/LuisJimenez35)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,7 +31,7 @@
 
 Aquí hay algunos de mis proyectos más interesantes:
 
-- [Nombre del proyecto 1](URL del proyecto 1): Descripción breve del proyecto 1.
+- [Nombre del proyecto 1](https://github.com/LuisJimenez35/SystemRH): Descripción breve del proyecto 1.
 - [Nombre del proyecto 2](URL del proyecto 2): Descripción breve del proyecto 2.
 
 ¡Gracias por visitar mi perfil! 😊
