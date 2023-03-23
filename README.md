@@ -6,6 +6,8 @@
 - 💬 Pregúntame sobre cualquier cosa relacionada con la programación o la tecnología.
 - 📫 Puedes contactarme en: 
   - 📧 [Gmail](mailto:luismorajimenez35@gmail.com)
+  - ☑️ [Linkedin](https://www.linkedin.com/in/luis-mora-jim%C3%A9nez-a18b53238)
+  - 📞 [Phone](https://wa.link/gkog8h)
 - 😄 Pronombres: él/ella
 - ⚡ Dato curioso: Me encanta el senderismo y la fotografía.
 
