@@ -17,10 +17,13 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver)
+
+![.Net Framework](https://img.shields.io/badge/-.Net Framework-512BD4?style=flat-square&logo=.netframework)
+
 
 ## 🔋Personal Information the GitHub
 ![GitHub metrics](https://metrics.lecoq.io/LuisJimenez35)
