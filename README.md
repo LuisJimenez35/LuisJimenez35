@@ -1,6 +1,7 @@
 # Hola! 👋
 
 ## About me
+💻 ¡Hello! My name is Luis Mora Jiménez and I am currently studying informaric engineering. During the last two years, I have gained solid knowledge in different technologies and developed skills in programming logic. In addition, I am constantly learning to be able to master new tools and apply them in both university and personal projects. I am especially interested in working in a team and simulating real automotive market processes in software.
 
 - 📫 Contact Info: 
   - 📧 [Gmail](mailto:luismorajimenez35@gmail.com)
