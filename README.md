@@ -1,10 +1,8 @@
 # Hola! 👋
 
-## Sobre mí
+## About me
 
-- 🌱 Actualmente estoy aprendiendo sobre desarrollo web y aplicaciones móviles.
-- 💬 Pregúntame sobre cualquier cosa relacionada con la programación o la tecnología.
-- 📫 Puedes contactarme en: 
+- 📫 Contact Info: 
   - 📧 [Gmail](mailto:luismorajimenez35@gmail.com)
   - ☑️ [Linkedin](https://www.linkedin.com/in/luis-mora-jim%C3%A9nez-a18b53238)
   - 📞 [Phone](https://wa.link/gkog8h)
@@ -35,5 +33,3 @@
 - 💼 [RH System](https://github.com/LuisJimenez35/SystemRH): Descripción breve del proyecto 1.
 - 📚 [Lybrary Page](https://github.com/LuisJimenez35/Lybrary): Descripción breve del proyecto 2.
 - 🐕‍🦺 [Vet APP](https://github.com/LuisJimenez35/System-VeterinariaAPP): Descripción breve del proyecto 3.
-
-¡Gracias por visitar mi perfil! 😊
