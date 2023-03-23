@@ -11,6 +11,7 @@
 ### 🛠️ Languages and tools used:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
+![.Net Framework](https://img.shields.io/badge/-.NetFramework-512BD4?style=flat-square&logo=.netframework)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -22,7 +23,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver)
 
-![.Net Framework](https://img.shields.io/badge/-.NetFramework-512BD4?style=flat-square&logo=.netframework)
+
 
 
 ## 🔋Personal Information the GitHub
