@@ -5,7 +5,7 @@
 - 🌱 Actualmente estoy aprendiendo sobre desarrollo web y aplicaciones móviles.
 - 💬 Pregúntame sobre cualquier cosa relacionada con la programación o la tecnología.
 - 📫 Puedes contactarme en: 
-  - 📧 [Gmail](luismorajimenez35@gmail.com)
+  - 📧 [Gmail](https://api.whatsapp.com/send?phone=50687045887)
 - 😄 Pronombres: él/ella
 - ⚡ Dato curioso: Me encanta el senderismo y la fotografía.
 
