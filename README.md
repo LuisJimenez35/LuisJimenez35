@@ -26,6 +26,7 @@
 
 ## 📁My best projects
 
-- 💼 [RH System](https://github.com/LuisJimenez35/SystemRH): Descripción breve del proyecto 1.
+- 💼 [RH System](https://github.com/LuisJimenez35/SystemRH):
+  -A company (Fictitious) requests a local system that allows to administrate their respective workers [Update their data, payments, benefits, add or delete workers and maintain a time control]. Our duty is to comply with the requirements requested.  
 - 📚 [Lybrary Page](https://github.com/LuisJimenez35/Lybrary): Descripción breve del proyecto 2.
 - 🐕‍🦺 [Vet APP](https://github.com/LuisJimenez35/System-VeterinariaAPP): Descripción breve del proyecto 3.
