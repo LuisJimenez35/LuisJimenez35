@@ -1,6 +1,7 @@
 # About me 👋
-💻 ¡Hello! My name is Luis Mora Jiménez and I am currently studying informaric engineering. During the last two years, I have gained solid knowledge in different technologies and developed skills in programming logic. In addition, I am constantly learning to be able to master new tools and apply them in both university and personal projects. I am especially interested in working in a team and simulating real automotive market processes in software.
+💻 ¡Hello! My name is Luis Mora Jiménez and I am a Informatic Engineering student. I have been studying for more than two years, I have acquired knowledge in various technologies such as Pyhton, Java, C# (.Net Framwerk), SQL Server, Mysql, HTML, Css, Java Script, supported by tools such as: Node JS and Entity Framework, TypeScript and with Git version control together with Github
 
+I am in the goal of continuing to acquire knowledge and experiences, both personal and work, applying soft skills such as group work, coordination, responsibility, self-learning.
 - 📫 Contact Info: 
   - 📧 [Gmail](mailto:luismorajimenez35@gmail.com)
   - ☑️ [Linkedin](https://www.linkedin.com/in/luis-antonio-mora-ie/)
