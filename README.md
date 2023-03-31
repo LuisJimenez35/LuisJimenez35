@@ -4,7 +4,6 @@
 - 📫 Contact Info: 
   - 📧 [Gmail](mailto:luismorajimenez35@gmail.com)
   - ☑️ [Linkedin](https://www.linkedin.com/in/luis-mora-jim%C3%A9nez-a18b53238)
-  - 📞 [Phone](https://wa.link/gkog8h)
 
 ## 🛠️ Languages and tools used:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
