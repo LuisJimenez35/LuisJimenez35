@@ -22,7 +22,7 @@ I am in the goal of continuing to acquire knowledge and experiences, both person
 ![Microsoft SQL Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=flat-square&logo=microsoftsqlserver)
 
 ## 🔋Personal Information the GitHub
-![GitHub metrics](https://metrics.lecoq.io/LuisJimenez35)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jefersonfuentes&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📁My best projects
