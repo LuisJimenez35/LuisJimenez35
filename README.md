@@ -7,7 +7,7 @@ I am in the goal of continuing to acquire knowledge and experiences, both person
   - ☑️ [Linkedin](https://www.linkedin.com/in/luis-antonio-mora-ie/)
 
 ## 🛠️ Languages and tools used:
-#![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=Java)
 ![.Net Framework](https://img.shields.io/badge/-.NetFramework-512BD4?style=flat-square&logo=.netframework)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
