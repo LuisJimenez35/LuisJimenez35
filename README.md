@@ -24,6 +24,7 @@ I am in the goal of continuing to acquire knowledge and experiences, both person
 ## 🔋Personal Information the GitHub
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisJimenez35&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisJimenez35)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://visitcount.itsvg.in/api?id=LuisJimenez35&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📁My best projects
 
