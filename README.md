@@ -28,7 +28,8 @@ I am in the goal of continuing to acquire knowledge and experiences, both person
 
 ## 📁My best projects
 
-- 💼 [SystemRH-Workers-Admistrator](https://github.com/LuisJimenez35/SystemRH):
-  - A company (Fictitious) requests a local system that allows to administrate their respective workers [Update their data, payments, benefits, add or delete workers and maintain a time control]. Our duty is to comply with the requirements requested.  
-- 📚 [Lybrary Page](https://github.com/LuisJimenez35/Lybrary): Descripción breve del proyecto 2.
+- 💼 [RH_Project_Java](https://github.com/LuisJimenez35/RH_Project_Java.git):
+  - It is an application that simulates a system for a human resources user with different functionalities explained in the readme and using Java and SQL Server technology 
+- 📚 [Condominium Visits APP](https://github.com/LuisJimenez35/CondominiumApp.git):
+  - University project on an app that visits condominiums using .net technology and sql-server as a base.
 - 🐕‍🦺 [Vet APP](https://github.com/LuisJimenez35/System-VeterinariaAPP): Descripción breve del proyecto 3.
