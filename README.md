@@ -31,5 +31,4 @@ I am in the goal of continuing to acquire knowledge and experiences, both person
 - 💼 [RH_Project_Java](https://github.com/LuisJimenez35/RH_Project_Java.git):
   - It is an application that simulates a system for a human resources user with different functionalities explained in the readme and using Java and SQL Server technology 
 - 📚 [Condominium Visits APP](https://github.com/LuisJimenez35/CondominiumApp.git):
-  - University project on an app that visits condominiums using .net technology and sql-server as a base.
-- 🐕‍🦺 [Vet APP](https://github.com/LuisJimenez35/System-VeterinariaAPP): Descripción breve del proyecto 3.
+  - University project on an app that visits condominiums using .Net technology and SQL Server as a base.
