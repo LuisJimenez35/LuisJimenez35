@@ -3,7 +3,7 @@
 
 I am in the goal of continuing to acquire knowledge and experiences, both personal and work, applying soft skills such as group work, coordination, responsibility, self-learning.
 - 📫 Contact Info: 
-  - 📧 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(mailto:luismorajimenez35@gmail.com)
+  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) Gmail(mailto:luismorajimenez35@gmail.com)
   - ☑️ [Linkedin](https://www.linkedin.com/in/luis-antonio-mora-ie/)
 
 ## 🛠️ Languages Used:
