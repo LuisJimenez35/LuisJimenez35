@@ -6,7 +6,7 @@ Additionally I have more than 6 months as a data analyst automating analyzing pr
 I am in the goal of continuing to acquire knowledge and experiences, both personal and work, applying soft skills such as group work, coordination, responsibility, self-learning.
 - 📫 Contact Info:
   - [Gmail](mailto:luismorajimenez35@gmail.com)
-  - [Outlook](luismora506@outlook.com)
+  - [Outlook](mailto:luismora506@outlook.com)
   - ☑️ [Linkedin](https://www.linkedin.com/in/luis-antonio-mora-ie/)
 
 ## ⌨️Languages Used:
