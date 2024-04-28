@@ -84,3 +84,5 @@ I am in the goal of continuing to acquire knowledge and experiences, both person
   - It is an application that simulates a system for a human resources user with different functionalities explained in the readme and using Java and SQL Server technology 
 - 📚 [Condominium Visits APP](https://github.com/LuisJimenez35/CondominiumApp.git):
   - University project on an app that visits condominiums using .Net technology and SQL Server as a base.
+- 🍿 [Flix Angular](https://github.com/LuisJimenez35/Flx-Angular)
+  - Develop a sense of design and structure as well as prepare the student for real-life scenarios in the world of software development, in this case a Film Software
