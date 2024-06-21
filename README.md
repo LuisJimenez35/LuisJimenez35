@@ -1,7 +1,7 @@
 # About me 👋
 💻 Hello! My name is Luis Mora Jiménez and I am a student of Informatic Engineering. I am currently in my third year in the career, I have acquired knowledge in development in various technologies such as Pyhton - Java - C# - C++ - JavaScript - Angular - TypeScript, using database tools such as Microsoft SQL Server - Oracle DataBase - Mysql - Google Fire Base - Mogo DB - Postegress SQL, along with version control as Git - GitHub - Azure.
 
-Additionally I have more than 6 months as a data analyst automating analyzing processes with data from Microsoft SQL Server , Siebel Systems, Oracle Engagement from which I create reports in Excel and present them with Power Automate in PowerBI DashBoards using DAX, while analyzing and implementing improvements with functionalities to improve and automate aligned processes.
+Additionally I have more than 8 months as a data analyst automating analyzing processes with data from Microsoft SQL Server , Siebel Systems, Oracle Engagement from which I create reports in Excel and present them with Power Automate in PowerBI DashBoards using DAX, while analyzing and implementing improvements with functionalities to improve and automate aligned processes.
 
 I am in the goal of continuing to acquire knowledge and experiences, both personal and work, applying soft skills such as group work, coordination, responsibility, self-learning.
 - 📫 Contact Info:
