@@ -1,7 +1,8 @@
 # About me 👋
-💻 Hello! My name is Luis Mora Jiménez and I am a student of Informatic Engineering. I am currently in my third year in the career, I have acquired knowledge in development in various technologies such as Pyhton - Java - C# - C++ - JavaScript - Angular - TypeScript, using database tools such as Microsoft SQL Server - Oracle DataBase - Mysql - Google Fire Base - Mogo DB - Postegress SQL, along with version control as Git - GitHub - Azure.
+💻¡Hola! Mi nombre es Luis Mora Jiménez, soy Ingeniero Informático. Me desenvuelvo en el desarrollo en diversas tecnologías como Pyhton - Java - C#-JavaScript - Angular - TypeScript, utilizando herramientas de almacenamientos de Datos como Microsoft SQL Server - Oracle DataBase - Mysql - Google Fire Base - Mongo DB - junto con control de versiones como Git - GitHub - Azure.
 
-Additionally I have more than 8 months as a data analyst automating analyzing processes with data from Microsoft SQL Server , Siebel Systems, Oracle Engagement from which I create reports in Excel and present them with Power Automate in PowerBI DashBoards using DAX, while analyzing and implementing improvements with functionalities to improve and automate aligned processes.
+Actualmente me desempeño como analista de datos automatizando y analizando procesos con datos de extraído de herramientas como Microsoft SQL Server, Siebel Systems, Oracle Engagement Cloud , a partir de los cuales creo informes usando limpieza con Power Query, Dax o Alteryx y los presento en PowerBI DashBoards usando DAX e incluso Oracle Analytics o Pandas (Pyhton), a la vez que analizo e implemento mejoras y automatizo procesos alineados con Power Automate.
+
 
 I am in the goal of continuing to acquire knowledge and experiences, both personal and work, applying soft skills such as group work, coordination, responsibility, self-learning.
 - 📫 Contact Info:
