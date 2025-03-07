@@ -3,8 +3,6 @@
 
 Actualmente me desempeño como analista de datos automatizando y analizando procesos con datos de extraído de herramientas como Microsoft SQL Server, Siebel Systems, Oracle Engagement Cloud , a partir de los cuales creo informes usando limpieza con Power Query, Dax o Alteryx y los presento en PowerBI DashBoards usando DAX e incluso Oracle Analytics o Pandas (Pyhton), a la vez que analizo e implemento mejoras y automatizo procesos alineados con Power Automate.
 
-
-I am in the goal of continuing to acquire knowledge and experiences, both personal and work, applying soft skills such as group work, coordination, responsibility, self-learning.
 - 📫 Contact Info:
   - [Gmail](mailto:luismorajimenez35@gmail.com)
   - [Outlook](mailto:luismora506@outlook.com)
