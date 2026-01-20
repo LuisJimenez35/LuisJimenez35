@@ -1,7 +1,7 @@
 # About me 👋
-💻¡Hola! Mi nombre es Luis Mora Jiménez, soy Ingeniero Informático. Me desenvuelvo en el desarrollo en diversas tecnologías como Pyhton - Java - C#-JavaScript - Angular - TypeScript, utilizando herramientas de almacenamientos de Datos como Microsoft SQL Server - Oracle DataBase - Mysql - Google Fire Base - Mongo DB - junto con control de versiones como Git - GitHub - Azure.
+Data Analyst & Software Engineer with a strong background in Business Intelligence (BI), data modeling, and process automation. I specialize in extracting and transforming complex data from enterprise sources like SQL Server, Oracle Engagement Cloud, and Siebel Systems into reliable, actionable insights.
 
-Actualmente me desempeño como analista de datos automatizando y analizando procesos con datos de extraído de herramientas como Microsoft SQL Server, Siebel Systems, Oracle Engagement Cloud , a partir de los cuales creo informes usando limpieza con Power Query, Dax o Alteryx y los presento en PowerBI DashBoards usando DAX e incluso Oracle Analytics o Pandas (Pyhton), a la vez que analizo e implemento mejoras y automatizo procesos alineados con Power Automate.
+By leveraging SQL, Python (Pandas), Alteryx, and Power Automate, I bridge the gap between technical development and strategic decision-making. I design high-impact Power BI dashboards focused on KPIs and operational efficiency. My engineering mindset allows me to integrate full-stack solutions (C#, Java, Angular) to automate manual overhead and drive business performance through data accuracy.
 
 - 📫 Contact Info:
   - [Gmail](mailto:luismorajimenez35@gmail.com)
